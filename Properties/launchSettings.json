@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Todo-List-C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
